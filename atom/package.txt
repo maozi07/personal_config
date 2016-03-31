@@ -1,0 +1,4 @@
+autocomplete-python
+flatten-json
+python-tools
+script

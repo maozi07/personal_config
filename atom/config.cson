@@ -1,0 +1,14 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "851cde45-8444-aa5e-0cc7-1661273289a4"
+  "tree-view": {}
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false

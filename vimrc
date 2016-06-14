@@ -1,4 +1,11 @@
 " Configuration file for vim
+
+" save file with utf8 
+set encoding=utf-8
+set termencoding=utf-8
+set fileencoding=utf-8
+set fileencodings=utf-8,gbk,ucs-bom,cp936
+
 set modelines=0		" CVE-2007-2438
 
 " Normally we use vim-extensions. If you want true vi-compatibility
